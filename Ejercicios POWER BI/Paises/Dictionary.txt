@@ -1,0 +1,25 @@
+Content:
+
+The scope of this project is to cluster world countries, based on socio-economic and health factors, to determine the overall development of a country in order to assist HELP International, as well as other NGOs, use their funds strategically and effectively. Therefore, the project aims to recommend a clustering algorithm able to categorize the data into the highest number of distinct.
+
+Description of features:
+
+1- country: Name of the country
+
+2- child_mort: Death of children under 5 years of age per 1000 live births
+
+3- exports: Exports of goods and services per capita. Given as %age of the GDP per capita
+
+4- health: Total health spending per capita. Given as %age of GDP per capita
+
+5- imports: Imports of goods and services per capita. Given as %age of the GDP per capita
+
+6- income: Net income per person
+
+7- inflation: The measurement of the annual growth rate of the Total GDP
+
+8- life_expec: The average number of years a new born child would live
+
+9- total_fer: The number of children that would be born to each woman
+
+10- gdpp: The GDP per capita. Calculated as the Total GDP divided by the total population.

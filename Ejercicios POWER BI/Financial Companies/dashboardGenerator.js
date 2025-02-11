@@ -18,7 +18,7 @@ const SYMBOLS = [
     'BA', 'CAT', 'MMM', 'HON', 'GE',         // Industrial
     'NKE', 'MCD', 'SBUX', 'PM', 'MO'         // Consumo
   ];
-const API_DELAY = 12000; // 13 segundos entre llamadas
+const API_DELAY = 13000; // 13 segundos entre llamadas
 
 // Función para obtener datos de Overview API
 async function getCompanyOverview(symbol) {
